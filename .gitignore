@@ -1,0 +1,18 @@
+data/
+*.sqlite*
+.env
+node_modules/
+backups/
+
+# Cloud secrets and local tooling
+.env.*
+!.env.example
+.firebase/
+.supabase/
+supabase/.temp/
+service-account*.json
+*-firebase-adminsdk-*.json
+deploy/targets.local.json
+*.zip
+
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "status": "pending-project-selection",
+  "githubRepository": "",
+  "googleCloudProjectId": "",
+  "firebaseProjectId": "",
+  "cloudRunService": "ambraxis-api",
+  "cloudRunRegion": "us-central1",
+  "supabaseProjectRef": ""
+}

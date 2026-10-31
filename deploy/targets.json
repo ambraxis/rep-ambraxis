@@ -1,0 +1,13 @@
+{
+  "status": "access-pending",
+  "githubRepository": "ambraxis/rep-ambraxis",
+  "googleCloudProjectId": "ambraxis-cloud",
+  "googleCloudProjectNumber": "169238967755",
+  "firebaseIdentifierProvided": "firebase-ambraxis",
+  "firebaseProjectId": null,
+  "cloudRunService": "ambraxis-api",
+  "cloudRunRegion": "us-central1",
+  "supabaseProjectRef": "njvjuwzdrqkqtiafaafy",
+  "supabaseUrl": "https://njvjuwzdrqkqtiafaafy.supabase.co",
+  "githubAccess": "admin-confirmed"
+}
